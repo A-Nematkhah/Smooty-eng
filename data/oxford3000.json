@@ -1,0 +1,242 @@
+[
+  {
+    "word": "abandon",
+    "pronunciation": "/əˈbæn.dən/",
+    "meaning": "ترک کردن",
+    "example": "He abandoned his old car.",
+    "level": "B2",
+    "category": "verbs"
+  },
+  {
+    "word": "accurate",
+    "pronunciation": "/ˈæk.jər.ət/",
+    "meaning": "دقیق، درست",
+    "example": "Please give an accurate description of what happened.",
+    "level": "B1",
+    "category": "adjectives"
+  },
+  {
+    "word": "maintain",
+    "pronunciation": "/meɪnˈteɪn/",
+    "meaning": "حفظ کردن، نگه‌داری کردن",
+    "example": "She maintains a healthy lifestyle.",
+    "level": "B2",
+    "category": "verbs"
+  },
+  {
+    "word": "confident",
+    "pronunciation": "/ˈkɒn.fɪ.dənt/",
+    "meaning": "مطمئن، با اعتماد به نفس",
+    "example": "He felt confident about the exam.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "word": "opportunity",
+    "pronunciation": "/ˌɒp.əˈtʃuː.nə.ti/",
+    "meaning": "فرصت",
+    "example": "This job is a great opportunity for her career.",
+    "level": "B1",
+    "category": "nouns"
+  },
+  {
+    "word": "cat",
+    "pronunciation": "/kæt/",
+    "meaning": "گربه",
+    "example": "The cat is sleeping on the sofa.",
+    "level": "A1",
+    "category": "nouns"
+  },
+  {
+    "word": "house",
+    "pronunciation": "/haʊs/",
+    "meaning": "خانه",
+    "example": "They bought a new house last year.",
+    "level": "A1",
+    "category": "nouns"
+  },
+  {
+    "word": "happy",
+    "pronunciation": "/ˈhæp.i/",
+    "meaning": "خوشحال",
+    "example": "She looks very happy today.",
+    "level": "A1",
+    "category": "adjectives"
+  },
+  {
+    "word": "travel",
+    "pronunciation": "/ˈtræv.əl/",
+    "meaning": "سفر کردن",
+    "example": "We travel to a new country every summer.",
+    "level": "A1",
+    "category": "verbs"
+  },
+  {
+    "word": "weather",
+    "pronunciation": "/ˈweð.ər/",
+    "meaning": "آب و هوا",
+    "example": "The weather is beautiful today.",
+    "level": "A1",
+    "category": "nouns"
+  },
+  {
+    "word": "borrow",
+    "pronunciation": "/ˈbɒr.əʊ/",
+    "meaning": "قرض گرفتن",
+    "example": "Can I borrow your pen for a minute?",
+    "level": "A2",
+    "category": "verbs"
+  },
+  {
+    "word": "neighbour",
+    "pronunciation": "/ˈneɪ.bər/",
+    "meaning": "همسایه",
+    "example": "Our neighbour is very friendly.",
+    "level": "A2",
+    "category": "nouns"
+  },
+  {
+    "word": "improve",
+    "pronunciation": "/ɪmˈpruːv/",
+    "meaning": "بهبود دادن، پیشرفت کردن",
+    "example": "You need to improve your writing skills.",
+    "level": "A2",
+    "category": "verbs"
+  },
+  {
+    "word": "polite",
+    "pronunciation": "/pəˈlaɪt/",
+    "meaning": "مؤدب",
+    "example": "It's polite to say thank you.",
+    "level": "A2",
+    "category": "adjectives"
+  },
+  {
+    "word": "environment",
+    "pronunciation": "/ɪnˈvaɪ.rən.mənt/",
+    "meaning": "محیط زیست",
+    "example": "We must protect the environment for future generations.",
+    "level": "B1",
+    "category": "nouns"
+  },
+  {
+    "word": "achieve",
+    "pronunciation": "/əˈtʃiːv/",
+    "meaning": "به دست آوردن، موفق شدن",
+    "example": "She worked hard to achieve her goals.",
+    "level": "B1",
+    "category": "verbs"
+  },
+  {
+    "word": "relevant",
+    "pronunciation": "/ˈrel.ə.vənt/",
+    "meaning": "مرتبط، مربوط",
+    "example": "That information isn't relevant to our discussion.",
+    "level": "B1",
+    "category": "adjectives"
+  },
+  {
+    "word": "generous",
+    "pronunciation": "/ˈdʒen.ər.əs/",
+    "meaning": "سخاوتمند، بخشنده",
+    "example": "It was very generous of him to donate so much.",
+    "level": "B1",
+    "category": "adjectives"
+  },
+  {
+    "word": "consequence",
+    "pronunciation": "/ˈkɒn.sɪ.kwəns/",
+    "meaning": "پیامد، نتیجه",
+    "example": "Every action has a consequence.",
+    "level": "B2",
+    "category": "nouns"
+  },
+  {
+    "word": "reluctant",
+    "pronunciation": "/rɪˈlʌk.tənt/",
+    "meaning": "بی‌میل، اکراه‌دار",
+    "example": "He was reluctant to share his opinion.",
+    "level": "B2",
+    "category": "adjectives"
+  },
+  {
+    "word": "compromise",
+    "pronunciation": "/ˈkɒm.prə.maɪz/",
+    "meaning": "مصالحه، سازش",
+    "example": "The two sides finally reached a compromise.",
+    "level": "B2",
+    "category": "nouns"
+  },
+  {
+    "word": "sophisticated",
+    "pronunciation": "/səˈfɪs.tɪ.keɪ.tɪd/",
+    "meaning": "پیچیده، پیشرفته",
+    "example": "The software uses a sophisticated algorithm.",
+    "level": "C1",
+    "category": "adjectives"
+  },
+  {
+    "word": "ambiguous",
+    "pronunciation": "/æmˈbɪɡ.ju.əs/",
+    "meaning": "مبهم، دو پهلو",
+    "example": "His answer was ambiguous and left us confused.",
+    "level": "C1",
+    "category": "adjectives"
+  },
+  {
+    "word": "meticulous",
+    "pronunciation": "/məˈtɪk.jə.ləs/",
+    "meaning": "دقیق و موشکافانه",
+    "example": "She is meticulous about every detail in her work.",
+    "level": "C1",
+    "category": "adjectives"
+  },
+  {
+    "word": "database",
+    "pronunciation": "/ˈdeɪ.tə.beɪs/",
+    "meaning": "پایگاه داده",
+    "example": "The application stores user data in a database.",
+    "level": "B1",
+    "category": "technology"
+  },
+  {
+    "word": "algorithm",
+    "pronunciation": "/ˈæl.ɡə.rɪ.ðəm/",
+    "meaning": "الگوریتم",
+    "example": "The search engine uses a complex algorithm.",
+    "level": "B2",
+    "category": "technology"
+  },
+  {
+    "word": "deploy",
+    "pronunciation": "/dɪˈplɔɪ/",
+    "meaning": "استقرار دادن، اجرا کردن",
+    "example": "The team plans to deploy the new update next week.",
+    "level": "B2",
+    "category": "technology"
+  },
+  {
+    "word": "negotiate",
+    "pronunciation": "/nɪˈɡəʊ.ʃi.eɪt/",
+    "meaning": "مذاکره کردن",
+    "example": "The manager negotiated a better deal with the supplier.",
+    "level": "B2",
+    "category": "business"
+  },
+  {
+    "word": "revenue",
+    "pronunciation": "/ˈrev.ə.njuː/",
+    "meaning": "درآمد",
+    "example": "The company's revenue increased by ten percent this year.",
+    "level": "B2",
+    "category": "business"
+  },
+  {
+    "word": "stakeholder",
+    "pronunciation": "/ˈsteɪkˌhəʊl.dər/",
+    "meaning": "ذی‌نفع",
+    "example": "All stakeholders were invited to the meeting.",
+    "level": "C1",
+    "category": "business"
+  }
+]

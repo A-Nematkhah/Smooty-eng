@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Secrets - never commit or share the real .env (see .env.example)
+.env
+
+# Local SQLite database
+data/*.db
+
+# Test/coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
